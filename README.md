@@ -13,17 +13,6 @@ Barrier akan berkurang kekuatannya setiap kali diserang.
 
 ---
 
-## ⚙️ Struktur Program
-├── Zombie.java # Class abstrak zombie
-├── WalkingZombie.java # Class zombie berjalan
-├── JumpingZombie.java # Class zombie melompat
-├── Barrier.java # Class penghalang/barrier
-├── Plant.java # Class tanaman penyerang
-└── Tester.java # Class utama (main)
-
-
----
-
 ## 🧩 Aturan Simulasi
 
 ### 🧟 WalkingZombie
