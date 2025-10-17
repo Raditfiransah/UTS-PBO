@@ -60,6 +60,7 @@ Barrier akan berkurang kekuatannya setiap kali diserang.
    java Tester
 
 ## 📸 Contoh Output
+<img width="329" height="378" alt="image" src="https://github.com/user-attachments/assets/e6388d30-36c2-4e97-b7f3-24c78b396429" />
 
 
 
